@@ -12,7 +12,7 @@ add_library(stb
   stb_herringbone_wang_tile.h
   stb_image.h
   stb_image_resize.h
-  stb_iamge_write.h
+  stb_image_write.h
   stb_include.h
   stb_leakcheck.h
   stb_perlin.h
