@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.8)
 project(stb)
 
-add_library(stb 
-	stb.h
+add_library(stb
+  stb.h
   stb_c_lexer.h
-  stb_connected_componnents.h
+  stb_connected_components.h
   stb_divide.h
   stb_ds.h
   stb_dxt.h
