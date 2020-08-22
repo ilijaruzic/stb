@@ -21,7 +21,7 @@ add_library(stb
   stb_textedit.h
   stb_tilemap_editor.h
   stb_truetype.h
-  stb_vorbis.h
+  stb_vorbis.c
   stb_voxel_render.h
   stretchy_buffer.h)
 target_include_directories(stb PUBLIC)
