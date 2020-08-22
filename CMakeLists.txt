@@ -4,7 +4,7 @@ project(stb)
 add_library(stb 
 	stb.h
   stb_c_lexer.h
-  stb_conneced_componnents.h
+  stb_connected_componnents.h
   stb_divide.h
   stb_ds.h
   stb_dxt.h
